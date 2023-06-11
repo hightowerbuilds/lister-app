@@ -5,7 +5,7 @@ class Thumbnail extends Component {
 
     static defaultProps = {
         title: 'first note',
-        date: 'date: 7/1/2024',
+        date: 'date: 12/1/2023',
         deadline: 'deadline: 6 days',
         display: 'flex'
     }
